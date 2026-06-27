@@ -114,6 +114,7 @@ sqlite3
 
 
 Usage
+
 Launch the app using streamlit run app/app.py
 Open the local URL shown in your terminal (usually http://localhost:8501)
 Option A: Draw a digit (0–9) on the canvas using your mouse or touchpad
@@ -136,6 +137,7 @@ sqlCREATE TABLE predictions (
 
 
 Results
+
 The model achieves high accuracy in identifying digits from 0–9
 Real-time prediction latency is minimal, providing a smooth user experience
 Prediction history is stored persistently and can be queried for analysis
@@ -143,6 +145,7 @@ Prediction history is stored persistently and can be queried for analysis
 
 
 Future Improvements
+ 
  Add multi-digit recognition support
  Deploy the app to the cloud (Streamlit Cloud / Hugging Face Spaces)
  Add a dashboard to visualize prediction statistics from the database
