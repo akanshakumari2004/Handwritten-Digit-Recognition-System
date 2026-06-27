@@ -158,5 +158,7 @@ Future Improvements
 
  ![image alt](https://github.com/akanshakumari2004/Handwritten-Digit-Recognition-System/blob/a6a7094da5ad307bf5a05a5c50eb4ddc05460ba4/SS3.png)
 
+ ![image alt](https://github.com/akanshakumari2004/Handwritten-Digit-Recognition-System/blob/f039589fc44f7d9b81e0f8abf404f30e52b8fe5b/SS4.png)
+
  
  
