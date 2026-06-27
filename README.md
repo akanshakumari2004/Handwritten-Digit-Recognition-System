@@ -151,3 +151,6 @@ Future Improvements
  Add a dashboard to visualize prediction statistics from the database
  Extend to recognize alphabets (A–Z)
  Export prediction history as CSV
+
+ ![image alt](https://github.com/akanshakumari2004/Handwritten-Digit-Recognition-System/blob/eee342eafb608450594c0aeddfe757e5ba599aab/SS1.png)
+ 
