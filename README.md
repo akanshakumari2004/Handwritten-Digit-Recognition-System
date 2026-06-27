@@ -153,4 +153,6 @@ Future Improvements
  Export prediction history as CSV
 
  ![image alt](https://github.com/akanshakumari2004/Handwritten-Digit-Recognition-System/blob/eee342eafb608450594c0aeddfe757e5ba599aab/SS1.png)
+
+ ![image alt](https://github.com/akanshakumari2004/Handwritten-Digit-Recognition-System/blob/5d471d6995f6b9b4116337f674312939590920a0/SS2.png)
  
